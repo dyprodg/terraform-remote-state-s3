@@ -1,13 +1,13 @@
 variable "aws_region" {
   description = "the value of the region"
   type        = string
-  default     = "us-east-1"
+  default     = "eu-central-1"
 }
 
 variable "machine_name" {
   description = "the value of the machine name"
   type        = string
-  default     = "techstarte-server"
+  default     = "techstarter-server"
 }
 
 variable "linux_ami" {
