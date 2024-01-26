@@ -13,5 +13,5 @@ variable "machine_name" {
 variable "linux_ami" {
   description = "value of the linux ami"
   type        = string
-  default     = "ami-0005e0cfe09cc9050"
+  default     = "ami-09024b009ae9e7adf"
 }
