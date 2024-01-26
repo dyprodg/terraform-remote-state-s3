@@ -32,6 +32,7 @@ push code,
 
 have fun
 
+terraform destroy vorher im jenkins file auskommentieren mit // sonst wirds gleich im anschluss wieder kaputt gemacht
 
 ps. wenn ihr das ganze dann wieder kaputt machen wollt einfach Jenkinsfile anpassen
 (statt terraform apply einfach terraform destroy)
